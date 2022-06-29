@@ -1,0 +1,24 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "access_control",
+            "name": "core-contract_access",
+            "parameters": {}
+        },
+        {
+            "category": "asset_value_tracking",
+            "name": "core-token",
+            "parameters": {
+                "name": "Test Token",
+                "symbol": "TEST",
+                "decimals": "18",
+                "supply": "100000000000"
+            }
+        }
+    ],
+    "blockchain": "avalanche",
+    "language": "solidity",
+    "framework": "react"
+}
